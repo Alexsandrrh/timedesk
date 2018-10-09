@@ -1,0 +1,39 @@
+body {
+    background-color: #f6f6f6;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+input, button, textarea {
+    outline: none;
+    padding: 0;
+    margin: 0;
+    border: none;
+    background: transparent;
+}
+
+.action-body::-webkit-scrollbar {
+    width: 0;
+}
+
+.action-body.-active {
+    overflow: hidden;
+}
+
+@media screen and (min-width: 320px){
+    .display-all {
+        width: 100%;
+        min-height: calc(100vh - 105px);
+        margin: 55px 0 50px;
+    }
+}
+
+@media screen and (min-width: 768px){
+
+}

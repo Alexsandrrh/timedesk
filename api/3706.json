@@ -1,0 +1,256 @@
+{
+  "base": {
+    "group": "3706",
+    "course": 2,
+    "current_week": "denominator",
+    "current_week_url": "https:\/\/petrocol.ru\/schedule\/2521\/?week=denominator",
+    "next_week_url": "https:\/\/petrocol.ru\/schedule\/2521\/?week=numerator"
+  },
+  "replacements": [
+
+  ],
+  "schedule": {
+    "monday": {
+      "1": [
+        {
+          "period": "1",
+          "lesson": "Теор.осн.орг.кон",
+          "teacher": "Захарова Ирина Анатольевна",
+          "classroom": "2\/30",
+          "teacherShort": "Захарова И.А.",
+          "teacherAlias": "zaharova-irina-anatolevna"
+        }
+      ],
+      "2": [
+        {
+          "period": "2",
+          "lesson": "Делопроизв.",
+          "teacher": "Карпова Наталья Николаевна",
+          "classroom": "4\/427",
+          "teacherShort": "Карпова Н.Н.",
+          "teacherAlias": "karpova-natalya-nikolaevna"
+        }
+      ],
+      "3": [
+        {
+          "period": "3",
+          "lesson": "История",
+          "teacher": "Ламанова Светлана Васильевна",
+          "classroom": "1\/202",
+          "teacherShort": "Ламанова С.В.",
+          "teacherAlias": "lamanova-svetlana-vasilevna"
+        }
+      ],
+      "4": [
+        {
+          "period": "4",
+          "lesson": "О.философии",
+          "teacher": "Якушкин Максим Васильевич",
+          "classroom": "1\/201",
+          "teacherShort": "Якушкин М.В.",
+          "teacherAlias": "yakushkin-maksim-vasilevich"
+        }
+      ]
+    },
+    "tuesday": {
+      "1": [
+        {
+          "period": "1",
+          "lesson": "Инж.графика",
+          "teacher": "Чапанова Нина Пейчовна",
+          "classroom": "2\/1",
+          "teacherShort": "Чапанова Н.П.",
+          "teacherAlias": "chapanova-nina-peychovna"
+        },
+        {
+          "period": "1",
+          "lesson": "Инж.графика",
+          "teacher": "Минеева Наталья Владимировна",
+          "classroom": "2\/1*",
+          "teacherShort": "Минеева Н.В.",
+          "teacherAlias": "mineeva-natalya-vladimirovna"
+        }
+      ],
+      "2": [
+        {
+          "period": "2",
+          "lesson": "История",
+          "teacher": "Ламанова Светлана Васильевна",
+          "classroom": "1\/202",
+          "teacherShort": "Ламанова С.В.",
+          "teacherAlias": "lamanova-svetlana-vasilevna"
+        }
+      ],
+      "3": [
+        {
+          "period": "3",
+          "lesson": "Материаловедение",
+          "teacher": "Емельянова Ольга Николаевна",
+          "classroom": "2\/5",
+          "teacherShort": "Емельянова О.Н.",
+          "teacherAlias": "emelyanova-olga-nikolaevna"
+        }
+      ],
+      "4": [
+        {
+          "period": "4",
+          "lesson": "Делопроизв.",
+          "teacher": "Карпова Наталья Николаевна",
+          "classroom": "4\/435",
+          "teacherShort": "Карпова Н.Н.",
+          "teacherAlias": "karpova-natalya-nikolaevna"
+        }
+      ]
+    },
+    "wednesday": {
+      "1": [
+        {
+          "period": "1",
+          "lesson": "Теор.осн.орг.кон",
+          "teacher": "Захарова Ирина Анатольевна",
+          "classroom": "2\/25а",
+          "teacherShort": "Захарова И.А.",
+          "teacherAlias": "zaharova-irina-anatolevna"
+        }
+      ],
+      "2": [
+        {
+          "period": "2",
+          "lesson": "Теор.осн.орг.кон",
+          "teacher": "Захарова Ирина Анатольевна",
+          "classroom": "2\/25а",
+          "teacherShort": "Захарова И.А.",
+          "teacherAlias": "zaharova-irina-anatolevna"
+        }
+      ],
+      "3": [
+        {
+          "period": "3",
+          "lesson": "Метрология",
+          "teacher": "Емельянова Ольга Николаевна",
+          "classroom": "2\/5",
+          "teacherShort": "Емельянова О.Н.",
+          "teacherAlias": "emelyanova-olga-nikolaevna"
+        }
+      ],
+      "4": [
+        {
+          "period": "4",
+          "lesson": "Делопроизв.",
+          "teacher": "Скалкина Наталья Викторовна",
+          "classroom": "4\/420",
+          "teacherShort": "Скалкина Н.В.",
+          "teacherAlias": "skalkina-natalya-viktorovna"
+        },
+        {
+          "period": "4",
+          "lesson": "Делопроизв.",
+          "teacher": "Карпова Наталья Николаевна",
+          "classroom": "4\/418",
+          "teacherShort": "Карпова Н.Н.",
+          "teacherAlias": "karpova-natalya-nikolaevna"
+        }
+      ],
+      "5": [
+        {
+          "period": "5",
+          "lesson": "Делопроизв.",
+          "teacher": "Карпова Наталья Николаевна",
+          "classroom": "4\/419",
+          "teacherShort": "Карпова Н.Н.",
+          "teacherAlias": "karpova-natalya-nikolaevna"
+        }
+      ]
+    },
+    "thursday": {
+      "1": [
+        {
+          "period": "1",
+          "lesson": "ДОП Менед. упр. СП",
+          "teacher": "Ефимова Виктория Валерьевна",
+          "classroom": "2\/26",
+          "teacherShort": "Ефимова В.В.",
+          "teacherAlias": "efimova-viktoriya-valerevna"
+        }
+      ],
+      "2": [
+        {
+          "period": "2",
+          "lesson": "О.философии",
+          "teacher": "Якушкин Максим Васильевич",
+          "classroom": "1\/201",
+          "teacherShort": "Якушкин М.В.",
+          "teacherAlias": "yakushkin-maksim-vasilevich"
+        }
+      ],
+      "3": [
+        {
+          "period": "3",
+          "lesson": "Ин.яз.",
+          "teacher": "Петров Виктор Константинович",
+          "classroom": "2\/42",
+          "teacherShort": "Петров В.К.",
+          "teacherAlias": "petrov-viktor-konstantinovich"
+        },
+        {
+          "period": "3",
+          "lesson": "Ин.яз.",
+          "teacher": "Шумова Антонина Ивановна",
+          "classroom": "1\/318",
+          "teacherShort": "Шумова А.И.",
+          "teacherAlias": "shumova-antonina-ivanovna"
+        }
+      ]
+    },
+    "friday": {
+      "1": [
+        {
+          "period": "1",
+          "lesson": "Физвосп.",
+          "teacher": "Тимофеев Алексей Валерьевич",
+          "classroom": "1\/С.зал№1",
+          "teacherShort": "Тимофеев А.В.",
+          "teacherAlias": "timofeev-aleksey-valerevich"
+        },
+        {
+          "period": "1",
+          "lesson": "Физвосп.",
+          "teacher": "Кирилова Ирина Александровна",
+          "classroom": "1\/С.зал№1а",
+          "teacherShort": "Кирилова И.А.",
+          "teacherAlias": "kirilova-irina-aleksandrovna"
+        }
+      ],
+      "2": [
+        {
+          "period": "2",
+          "lesson": "Метрология",
+          "teacher": "Емельянова Ольга Николаевна",
+          "classroom": "2\/5",
+          "teacherShort": "Емельянова О.Н.",
+          "teacherAlias": "emelyanova-olga-nikolaevna"
+        }
+      ],
+      "3": [
+        {
+          "period": "3",
+          "lesson": "Материаловедение",
+          "teacher": "Емельянова Ольга Николаевна",
+          "classroom": "2\/5",
+          "teacherShort": "Емельянова О.Н.",
+          "teacherAlias": "emelyanova-olga-nikolaevna"
+        }
+      ],
+      "4": [
+        {
+          "period": "4",
+          "lesson": "ДОП Менед. упр. СП",
+          "teacher": "Ефимова Виктория Валерьевна",
+          "classroom": "2\/14\/4",
+          "teacherShort": "Ефимова В.В.",
+          "teacherAlias": "efimova-viktoriya-valerevna"
+        }
+      ]
+    }
+  }
+}

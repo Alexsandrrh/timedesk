@@ -1,0 +1,9 @@
+@media screen and (min-width: 320px){
+    .container-u {
+        padding: 0 16px;
+    }
+
+    .container-o {
+        padding: 0 25px;
+    }
+}

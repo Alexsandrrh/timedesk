@@ -1,0 +1,27 @@
+{
+  "typeDoc" : "notify",
+  "messages" : {
+    "new": [
+      {
+        "author": "Alexsandrrh",
+        "author_photo" : "https://pp.userapi.com/c637425/v637425754/f71f/2jJgQP2XQpY.jpg",
+        "author_id": "1",
+        "content_code": "<p>Hi! I'm Aleksandr Sadov (Frontend Developer)<a href=\"https://github.com/Alexsandrrh\" target=\"_blank\">Click Here</a></p><img src=\"https://media0.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif?cid=3640f6095bb9164662385959672fecac\">"
+      },
+      {
+        "author": "Sah4pok",
+        "author_photo" : "https://pp.userapi.com/c637829/v637829824/4c77e/EI-lTKvTSf0.jpg",
+        "author_id": "2",
+        "content_code": "<p>Hi! I'm Yuri Fadeev (UI/UX Designer)<a href=\"https://vk.com/sah4pok\" target=\"_blank\">Click Here</a></p><img src=\"https://media2.giphy.com/media/3oz8xALBEmIav48OYg/giphy.gif?cid=3640f6095bb9144930544a77494fa2ef\">"
+      }
+    ],
+    "looked": [
+      {
+        "author": "Step404",
+        "author_photo" : "https://pp.userapi.com/c622624/v622624276/60c5e/UY0sRxFaOyo.jpg",
+        "author_id": "80",
+        "content_code": "<p>Люди, не кого не смущает, что следующая неделя начинается с Философии, затем идёт два Делопроизводства?</p>"
+      }
+    ]
+  }
+}
